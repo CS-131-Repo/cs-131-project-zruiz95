@@ -1,6 +1,26 @@
-# CS-131-Project
+# CSC 131 Repository
 
-CS 131 Git Hub Project page at Pierce College. This page is being adminstrated by Alejandro Zamora. If you need to be added as a colloabroator please email me, message me on Canvas, Discord (zruiz95) or add you email to the Discussions set up by Professor Yuen.
+## You must fill out the information below. Failure to do so will result in 0s for the assignments. We need to know who you are so we can award points. 
 
-Info
-My understanding of this project is to study a specific intrest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
+## When entering Student IDs please do not add any additional characters. Digits ONLY please. Please keep the space around the colon
+
+## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
+
+## Student Name  : Alejandro Zamora Ruiz
+
+## Student ID    : 886449855
+
+## Student Email : zamoraae4572@student.laccd.edu
+
+## YouTube video link: https://www.youtube.com/watch?v=AYEITD4kd_A
+
+## How to run the simulation: 
+To run the crypto simulation:
+  1. Download the BrahmaCoin and CrytoWallet folders to your computer
+  2. Download the Libraries folder to your computer
+  3. Open both projects in your IDE of choice, preferably IntelliJ
+  4. Add the GSON and Bouncy Castle libraries to both project
+  5. Build and Run the Project
+  
+## PowerPoint: 
+The PowerPoint presentation is the same one used in the video presentation except I had to omitt a portion of it in order to cut down on time. Feel free to look though the complete presentation in order to learn about the different kinds of renewable energy sources we can use to mine bitcoin.
